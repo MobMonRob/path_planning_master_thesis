@@ -25,3 +25,6 @@
 	path = warehouse_ros_mongo
 	url = https://github.com/MobMonRob/warehouse_ros_mongo.git
 	branch = melodic-devel
+[submodule "warehouse_ros"]
+	path = warehouse_ros
+	url = https://github.com/MobMonRob/warehouse_ros.git

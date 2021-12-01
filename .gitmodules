@@ -17,3 +17,7 @@
 	path = universal_robot
 	url = https://github.com/MobMonRob/universal_robot.git
 	branch = calibration_devel
+[submodule "moveit"]
+	path = moveit
+	url = https://github.com/MobMonRob/moveit.git
+	branch = melodic-devel

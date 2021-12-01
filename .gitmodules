@@ -1,0 +1,3 @@
+[submodule "pp_moveit"]
+	path = pp_moveit
+	url = https://github.com/ros-planning/moveit.git

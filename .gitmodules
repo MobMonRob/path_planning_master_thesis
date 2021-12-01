@@ -49,3 +49,9 @@
 [submodule "mongo-cxx-driver"]
 	path = mongo-cxx-driver
 	url = https://github.com/MobMonRob/mongo-cxx-driver.git
+[submodule "fcl"]
+	path = fcl
+	url = https://github.com/MobMonRob/fcl.git
+[submodule "moveit-core"]
+	path = moveit-core
+	url = https://github.com/MobMonRob/moveit-core.git

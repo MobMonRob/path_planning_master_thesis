@@ -1,3 +1,9 @@
 [submodule "pp_moveit"]
 	path = pp_moveit
 	url = https://github.com/ros-planning/moveit.git
+[submodule "stomp_ros"]
+	path = stomp_ros
+	url = https://github.com/ros-industrial/stomp_ros.git
+[submodule "stomp"]
+	path = stomp
+	url = https://github.com/ros-industrial/stomp.git

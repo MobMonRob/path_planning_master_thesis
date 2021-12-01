@@ -7,3 +7,13 @@
 [submodule "stomp"]
 	path = stomp
 	url = https://github.com/ros-industrial/stomp.git
+[submodule "src/Universal_Robots_ROS_Driver"]
+	path = src/Universal_Robots_ROS_Driver
+	url = https://github.com/UniversalRobots/Universal_Robots_ROS_Driver.git
+[submodule "Universal_Robotics_ROS_Driver"]
+	path = Universal_Robotics_ROS_Driver
+	url = https://github.com/UniversalRobots/Universal_Robots_ROS_Driver.git
+[submodule "universal_robot"]
+	path = universal_robot
+	url = https://github.com/MobMonRob/universal_robot.git
+	branch = calibration_devel

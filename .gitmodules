@@ -28,3 +28,21 @@
 [submodule "warehouse_ros"]
 	path = warehouse_ros
 	url = https://github.com/MobMonRob/warehouse_ros.git
+[submodule "moveit_visual_tools"]
+	path = moveit_visual_tools
+	url = https://github.com/MobMonRob/moveit_visual_tools.git
+	branch = melodic-devel
+[submodule "ros_industrial_cmake_boilerplate"]
+	path = ros_industrial_cmake_boilerplate
+	url = https://github.com/MobMonRob/ros_industrial_cmake_boilerplate.git
+[submodule "ompl"]
+	path = ompl
+	url = https://github.com/MobMonRob/ompl.git
+[submodule "moveit_tutorials"]
+	path = moveit_tutorials
+	url = https://github.com/MobMonRob/moveit_tutorials.git
+	branch = melodic-devel
+[submodule "moveit_msgs"]
+	path = moveit_msgs
+	url = https://github.com/MobMonRob/moveit_msgs.git
+	branch = melodic-devel

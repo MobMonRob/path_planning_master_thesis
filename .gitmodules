@@ -21,3 +21,7 @@
 	path = moveit
 	url = https://github.com/MobMonRob/moveit.git
 	branch = melodic-devel
+[submodule "warehouse_ros_mongo"]
+	path = warehouse_ros_mongo
+	url = https://github.com/MobMonRob/warehouse_ros_mongo.git
+	branch = melodic-devel

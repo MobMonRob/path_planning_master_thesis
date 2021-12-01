@@ -1,0 +1,1 @@
+/usr/lib/ccache/cc -O2 -g -DNDEBUG  -rdynamic CMakeFiles/bson-validate.dir/examples/bson-validate.c.o  -o bson-validate -Wl,-rpath,/home/nitish/ws_moveit/src/mongo-c-driver-1.19.2/cmake-build/src/libbson libbson-1.0.so.0.0.0 

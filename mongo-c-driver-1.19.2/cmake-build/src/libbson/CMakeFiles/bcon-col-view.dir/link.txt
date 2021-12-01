@@ -1,0 +1,1 @@
+/usr/lib/ccache/cc -O2 -g -DNDEBUG  -rdynamic CMakeFiles/bcon-col-view.dir/examples/bcon-col-view.c.o  -o bcon-col-view -Wl,-rpath,/home/nitish/ws_moveit/src/mongo-c-driver-1.19.2/cmake-build/src/libbson libbson-1.0.so.0.0.0 

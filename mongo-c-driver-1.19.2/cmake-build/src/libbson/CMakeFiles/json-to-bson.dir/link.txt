@@ -1,1 +1,0 @@
-/usr/lib/ccache/cc -O2 -g -DNDEBUG  -rdynamic CMakeFiles/json-to-bson.dir/examples/json-to-bson.c.o  -o json-to-bson -Wl,-rpath,/home/nitish/ws_moveit/src/mongo-c-driver-1.19.2/cmake-build/src/libbson libbson-1.0.so.0.0.0 

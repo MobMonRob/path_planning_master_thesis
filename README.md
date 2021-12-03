@@ -3,6 +3,7 @@
 ## Building the repo
 ```
 git clone https://github.com/MobMonRob/path_planning_master_thesis.git
+cd path_planning_master_thesis
 git submodule init
 git submodule update
 ```

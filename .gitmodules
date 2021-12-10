@@ -55,3 +55,6 @@
 [submodule "moveit-core"]
 	path = moveit-core
 	url = https://github.com/MobMonRob/moveit-core.git
+[submodule "vicon_bridge_forceplates"]
+	path = vicon_bridge_forceplates
+	url = https://github.com/MobMonRob/vicon_bridge_forceplates.git

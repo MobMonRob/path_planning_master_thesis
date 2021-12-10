@@ -58,3 +58,6 @@
 [submodule "vicon_bridge_forceplates"]
 	path = vicon_bridge_forceplates
 	url = https://github.com/MobMonRob/vicon_bridge_forceplates.git
+[submodule "rosbag_to_csv"]
+	path = rosbag_to_csv
+	url = https://github.com/MobMonRob/rosbag_to_csv.git
